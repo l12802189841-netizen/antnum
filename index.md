@@ -14,7 +14,7 @@ keywords:
 # <span style="color:#0066ee;">antnum</span>
 ## 海外華人跨境儲值攻略部落格
 
-歡迎來到本站！ANTNUM 螞蟻數位專服務旅居台灣、港澳、東南亞海外使用者，解決國服[抖音](https://www.antnum.com/goods/info/douyin)、[虎牙](https://www.antnum.com/goods/info/hyzb)、[快手](https://www.antnum.com/goods/info/kszb)、[B站](https://www.antnum.com/goods/info/bilibili)、[Bigo](https://www.antnum.com/goods/info/bigolive)、手遊儲值支付受限、風控封號、手續費過高等常見難題。
+歡迎來到本站！ANTNUM 螞蟻數字專服務旅居台灣、港澳、東南亞海外使用者，解決國服[抖音](https://www.antnum.com/goods/info/douyin)、[虎牙](https://www.antnum.com/goods/info/hyzb)、[快手](https://www.antnum.com/goods/info/kszb)、[B站](https://www.antnum.com/goods/info/bilibili)、[Bigo](https://www.antnum.com/goods/info/bigolive)、手遊儲值支付受限、風控封號、手續費過高等常見難題。
 
 本站收錄全系列親測實戰教學，教你分辨黑卡詐騙管道、降低帳號風控風險，不用託親友代充，在地貨幣即可快速完成直充，實現海外「儲值自由」。
 
