@@ -1,0 +1,24 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 首頁 -->
+  <url>
+    <url>{{ site.url }}{{ site.baseurl }}/</url>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- 自動遍歷所有文章 -->
+  {% for post in site.pages %}
+  {% if post.url contains ".html" and post.url != "/index.html" %}
+  <url>
+    <url>{{ site.url }}{{ site.baseurl }}{{ post.url }}</url>
+    <lastmod>{{ post.lastmod | default: site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  {% endif %}
+  {% endfor %}
+</urlset>
