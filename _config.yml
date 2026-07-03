@@ -1,7 +1,0 @@
-# 啟用分頁插件
-plugins:
-  - jekyll-paginate
-paginate: 8 # 每頁顯示8篇文章，可自行調整
-paginate_path: "/list/page:num/" # 分頁網址：/list/page2/、/list/page3/
-# 語言設定（你網站繁體）
-lang: zh-TW
