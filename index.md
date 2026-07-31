@@ -6,7 +6,7 @@ description: 專為台灣、香港、新加坡海外華人整理國服APP、遊�
 keywords:
   - 台灣海外儲值
   - 海外儲值
-  - ANTNUM螞蟻數字
+  - ANTNUM螞蟻充值
   - 抖音抖幣海外儲值
   - 抖音儲值
 ---
