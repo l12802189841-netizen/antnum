@@ -5,6 +5,7 @@
 - [2026 抖音盛夏粉絲節全攻略｜海外華人儲值省心小分享](douyin-chongzhi.md)
 - [海外想充值B站电池支持哪些B站充值方式及支付方式](bilibili-chongzhi.md)
 - [抖音盛夏粉絲節準備衝榜！海外、台灣鄉親抖音儲值省錢小妙招｜ANTNUM螞蟻充值](douyin-fensijie-1.md)
+- [七夕佳节已至，海外抖音储值有没有划算的渠道？](douyin-qixi.md)
 
   
 頁面導航：
