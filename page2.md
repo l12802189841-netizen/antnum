@@ -8,6 +8,7 @@
 - [七夕佳节已至，海外抖音储值有没有划算的渠道？](douyin-qixi.md)
 - [大陸抖音儲值：官方管道 vs 第三方平台，真實乾貨分享](douyin-chuzhi2.md)
 - [海外抖音充值为什么普遍比国内官方价格贵？成本完整解析](douyin-chuzhi-3.md)
+- [【實用心得】bilibili充電 台灣使用者踩坑分享](bilibili-chongdian-1.md)
 
   
 頁面導航：
