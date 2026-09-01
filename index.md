@@ -26,7 +26,7 @@ keywords:
 # 文章分類列表
 ## 直播類儲值教學
 - [海外抖音充值为什么普遍比国内官方价格贵？成本完整解析](douyin-chuzhi-3.md)
-- [海外可靠代儲平台怎麼挑？支援 ID 直充的管道選購心得](chongzhi.md)
+- [【實用心得】bilibili充電 台灣使用者踩坑分享](bilibili-chongdian-1.md)
 - [海外华人抖币充值优惠攻略｜靠谱抖音充值海外平台推荐](doubi.md)
 - [2026 抖音盛夏粉絲節全攻略｜海外華人儲值省心小分享](douyin-chongzhi.md)
 - [七夕佳节已至，海外抖音储值有没有划算的渠道？](douyin-qixi.md)
