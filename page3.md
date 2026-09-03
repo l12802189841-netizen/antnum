@@ -1,5 +1,6 @@
 # 攻略列表 - 第2頁
 - [bilibili 充值注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
+- [台幣可以直接抖音儲值嗎？海外使用者抖音儲值完整攻略](douyin-chuzhi3.md)
 
 
   
