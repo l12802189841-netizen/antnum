@@ -28,7 +28,7 @@ keywords:
 - [海外抖音充值为什么普遍比国内官方价格贵？成本完整解析](douyin-chuzhi-3.md)
 - [【實用心得】bilibili充電 台灣使用者踩坑分享](bilibili-chongdian-1.md)
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
-- [2026 抖音盛夏粉絲節全攻略｜海外華人儲值省心小分享](douyin-chongzhi.md)
+- [台幣可以直接抖音儲值嗎？海外使用者抖音儲值完整攻略](douyin-chuzhi3.md)
 - [七夕佳节已至，海外抖音储值有没有划算的渠道？](douyin-qixi.md)
 - [大陸抖音儲值：官方管道 vs 第三方平台，真實乾貨分享](douyin-chuzhi2.md)
 
