@@ -1,6 +1,7 @@
 # 攻略列表 - 第2頁
 - [bilibili 充值注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
 - [台幣可以直接抖音儲值嗎？海外使用者抖音儲值完整攻略](douyin-chuzhi3.md)
+- [三角洲行动群星新季节攻略｜新武器、新外观、藏品合理充值指南](delta-stars-season.md)
 
 
   
