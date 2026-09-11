@@ -3,6 +3,8 @@ on:
   push:
     branches: [ main ] # 改成你的主分支，一般main或者master
 
+permissions:
+  contents: write
 jobs:
   sitemap:
     runs-on: ubuntu-latest
