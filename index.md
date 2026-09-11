@@ -30,7 +30,7 @@ keywords:
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
 - [台幣可以直接抖音儲值嗎？海外使用者抖音儲值完整攻略](douyin-chuzhi3.md)
 - [抖音2026PK争锋赛资讯｜海外抖币充值省钱安全攻略2026](douyinpk.md)
-- [大陸抖音儲值：官方管道 vs 第三方平台，真實乾貨分享](douyin-chuzhi2.md)
+- [抖音儲值抖幣失敗怎麼辦？台灣常見問題完整解決攻略](doubi1.md)
 
 ## 影音/社群平台儲值教學
 - [人在海外電腦常上線，小紅書薯幣網頁版儲值管道教學](article3.md)
