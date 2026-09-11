@@ -25,7 +25,7 @@ keywords:
 👉 [前往海外充值完整攻略(支持翻页)](page1.md)
 # 文章分類列表
 ## 直播類儲值教學
-- [海外抖音充值为什么普遍比国内官方价格贵？成本完整解析](douyin-chuzhi-3.md)
+- [台灣怎麼bilibili 充值？B幣、大會員、電池常見問題一次說明](bilibili-chongzhi-1.md)
 - [【實用心得】bilibili充電 台灣使用者踩坑分享](bilibili-chongdian-1.md)
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
 - [台幣可以直接抖音儲值嗎？海外使用者抖音儲值完整攻略](douyin-chuzhi3.md)
